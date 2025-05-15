@@ -1,5 +1,5 @@
 # 🧑‍💼 HR Analytics Dashboard – Tableau Project
-![Image](https://github.com/user-attachments/assets/4e10b75f-b414-4461-b0de-90f70e2136c7)
+https://github.com/user-attachments/assets/3e4f76c1-a47a-4a25-9dc7-585b19698d62
 
 This project presents a comprehensive Human Resources (HR) dashboard built using Tableau. It simulates the full lifecycle of a real-world business intelligence project — from requirement gathering and wireframing to data preparation and professional dashboard development. The dashboard delivers key HR insights to support strategic decision-making in workforce management.
 
@@ -81,7 +81,7 @@ You can also view the published version on my [Tableau Public Profile](#).
 
 
 
-https://github.com/user-attachments/assets/3e4f76c1-a47a-4a25-9dc7-585b19698d62
+![Image](https://github.com/user-attachments/assets/4e10b75f-b414-4461-b0de-90f70e2136c7)
 
 
 ---
