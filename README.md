@@ -96,9 +96,8 @@ Following the step-by-step tutorial, rather than downloading the final file dire
 
 ## 🔗 Useful Links
 
-- 📺 YouTube Tutorial Series – *[Add your link here]*  
-- 🌐 Tableau Public Dashboard – *[Add your link here]*  
-- 🧑‍💼 LinkedIn Profile – *[Add your link here]*  
+- 🌐 Tableau Public Dashboard – *[https://public.tableau.com/app/profile/nitin.rawat7728/vizzes]*  
+- 🧑‍💼 LinkedIn Profile – *[https://www.linkedin.com/in/nitin-rawat-a38536270/]*  
 
 ---
 
