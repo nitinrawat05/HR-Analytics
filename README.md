@@ -79,8 +79,7 @@ You can also view the published version on my [Tableau Public Profile](#).
 
 ## 📸 Dashboard Preview
 
-> *(Add screenshots or gifs of the dashboard here)*
-
+https://github.com/user-attachments/assets/45710b40-7812-4f7d-b16c-31c3ff2b0a42
 ---
 
 ## 🙌 How to Use
