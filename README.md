@@ -79,7 +79,11 @@ You can also view the published version on my [Tableau Public Profile](#).
 
 ## 📸 Dashboard Preview
 
-https://github.com/user-attachments/assets/45710b40-7812-4f7d-b16c-31c3ff2b0a42
+
+
+https://github.com/user-attachments/assets/3e4f76c1-a47a-4a25-9dc7-585b19698d62
+
+
 ---
 
 ## 🙌 How to Use
